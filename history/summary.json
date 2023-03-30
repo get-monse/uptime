@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/monseapp.com.ico",
     "slug": "landing-page",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 459,
-    "timeDay": 365,
-    "timeWeek": 388,
-    "timeMonth": 556,
-    "timeYear": 459,
-    "dailyMinutesDown": {
-      "2023-03-29": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 461,
+    "timeDay": 474,
+    "timeWeek": 406,
+    "timeMonth": 559,
+    "timeYear": 461,
+    "dailyMinutesDown": {}
   },
   {
     "name": "App",
@@ -25,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/monse.app.ico",
     "slug": "app",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 365,
-    "timeDay": 305,
-    "timeWeek": 356,
-    "timeMonth": 374,
-    "timeYear": 365,
-    "dailyMinutesDown": {
-      "2023-03-29": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 367,
+    "timeDay": 391,
+    "timeWeek": 364,
+    "timeMonth": 379,
+    "timeYear": 367,
+    "dailyMinutesDown": {}
   }
 ]
