@@ -4,10 +4,10 @@
     "url": "https://monseapp.com",
     "icon": "https://icons.duckduckgo.com/ip3/monseapp.com.ico",
     "slug": "landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 450,
@@ -15,14 +15,16 @@
     "timeWeek": 457,
     "timeMonth": 470,
     "timeYear": 450,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-05": 1
+    }
   },
   {
     "name": "App",
     "url": "https://monse.app",
     "icon": "https://icons.duckduckgo.com/ip3/monse.app.ico",
     "slug": "app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 391,
     "timeMonth": 379,
     "timeYear": 369,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-05": 0
+    }
   }
 ]
