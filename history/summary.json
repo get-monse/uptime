@@ -4,19 +4,19 @@
     "url": "https://monseapp.com",
     "icon": "https://icons.duckduckgo.com/ip3/monseapp.com.ico",
     "slug": "landing-page",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 450,
-    "timeDay": 575,
-    "timeWeek": 457,
-    "timeMonth": 470,
-    "timeYear": 450,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "96.70%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.98%",
+    "time": 456,
+    "timeDay": 1011,
+    "timeWeek": 580,
+    "timeMonth": 501,
+    "timeYear": 456,
     "dailyMinutesDown": {
-      "2023-06-05": 1
+      "2023-06-05": 48
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://monse.app",
     "icon": "https://icons.duckduckgo.com/ip3/monse.app.ico",
     "slug": "app",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 369,
-    "timeDay": 470,
-    "timeWeek": 391,
-    "timeMonth": 379,
-    "timeYear": 369,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "96.73%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.98%",
+    "time": 371,
+    "timeDay": 630,
+    "timeWeek": 441,
+    "timeMonth": 391,
+    "timeYear": 371,
     "dailyMinutesDown": {
-      "2023-06-05": 0
+      "2023-06-05": 47
     }
   }
 ]
